@@ -4,8 +4,12 @@
 ---
 
 # 💫 About Me:
-Full Stack Web Developer with hands-on experience building web applications using React and Node.js. Strong fundamentals and actively improving DSA to write efficient and scalable solutions.
-
+<ul>
+  <li>💻 Full Stack Developer (React + Node.js)</li>
+  <li>🔥 Interested in building real-time systems and scalable applications</li>
+  <li>🌱 Currently improving DSA and backend architecture skills</li>
+  <li>🐧 Linux user</li>
+</ul>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/himanshu-soni-303b16256/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:himanshu260404@gmail.com) 
