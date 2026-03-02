@@ -11,9 +11,6 @@
   <li>🐧 Arch Linux user</li>
 </ul>
 
----
-
-
 <p align="left">
   <!-- Add your LinkedIn / Portfolio / Email here -->
 </p>
