@@ -3,7 +3,7 @@
 
 ---
 
-<h3 align="left">🚀 About Me:</h3>
+<h3 align="left">About Me:</h3>
 <ul>
   <li>💻 Full Stack Developer (React + Node.js)</li>
   <li>🔥 Interested in building real-time systems and scalable applications</li>
@@ -13,7 +13,7 @@
 
 ---
 
-<h3 align="left">🤝 Connect with me:</h3>
+
 <p align="left">
   <!-- Add your LinkedIn / Portfolio / Email here -->
 </p>
