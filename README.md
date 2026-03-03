@@ -5,10 +5,12 @@
 
 # 💫 About Me:
 <ul>
-  <li>💻 Full Stack Developer (React + Node.js)</li>
-  <li>🔥 Interested in building real-time systems and scalable applications</li>
-  <li>🌱 Currently improving DSA and backend architecture skills</li>
-  <li>🐧 Linux user</li>
+ <li>Full Stack Developer building scalable web & mobile applications.</li>
+ <li>Currently working on CashFlow, a Kotlin Android application.</li>
+ <li>Built a real-time collaborative whiteboard with voice chat (WebSocket-based architecture).</li>
+ <li>Interested in real-time systems, performance optimization, and system design.</li>
+ <li>Arch Linux user — I like breaking things to truly understand how they work.</li>
+ <li>Looking to contribute and grow with early-stage startups.</li>
 </ul>
 
 ## 🌐 Socials:
