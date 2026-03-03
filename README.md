@@ -9,7 +9,7 @@
  <li>Currently working on CashFlow, a Kotlin Android application.</li>
  <li>Built a real-time collaborative whiteboard with voice chat (WebSocket-based architecture).</li>
  <li>Interested in real-time systems, performance optimization, and system design.</li>
- <li>Arch Linux user — I like breaking things to truly understand how they work.</li>
+ <li>Arch Linux user — I like understanding systems at a low level.</li>
  <li>Looking to contribute and grow with early-stage startups.</li>
 </ul>
 
